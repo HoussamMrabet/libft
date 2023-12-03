@@ -11,7 +11,8 @@ II. [Common Instructions](#common-instructions)
 III. [Mandatory Part](#mandatory-part)  
    - III.1 [Technical Considerations](#technical-considerations)  
    - III.2 [Part 1 - Libc Functions](#part-1-libc-functions)  
-   - III.3 [Part 2 - Additional Functions](#part-2-additional-functions)  
+   - III.3 [Part 2 - Additional Functions](#part-2-additional-functions)
+
 IV. [Bonus Part](#bonus-part)  
 V. [Submission and Peer-evaluation](#submission-and-peer-evaluation)
 
